@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vengaAmipueblo2</string>
+    <string name="descripcionhoteles">
+       Hello, here you will find the great wonders of our hotel
+    </string>
+
+    <string name="botonhoteles">Hotels</string>
+    <string name="botonres">Restaurante</string>
+    <string name="botons">Sitios</string>
+
+    <string name="opcion1">Spanish</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Portuguese</string>
+    <string name="opcion4">About Us</string>
+    <string name="descripcionrestaurantes">In our wonderful town you will enjoy our homemade delicacies</string>
+    <string name="turismo">With our wonderful tourism company you can enjoy our packages of plans to walk with your loved ones</string>
+    <string name="tituload">tamarinds</string>
+    <string name="acercade">Hello, my name is Sebastian, I am the direct accessor of tamarindos here you can find what you want and you can enjoy all our plans that we have!</string>
+
+    <string name="titulohotel">MARIO HOTEL</string>
+    <string name="preciohotel">From 100,000 COP.</string>
+
+    <string name="titulosrestaurantes">EL MIRADOR RESTAURANT."</string>
+    <string name="platoespecial">SPECIAL DISH.</string>
+    <string name="descripcionplato">"Pork with creole potatoes and vegetables.</string>
+    <string name="preciotitulo">PRICES</string>
+    <string name="preciosplato">From $300.000.</string>
+
+
+    <string name="titulot">WONDERS</string>
+    <string name="titulote">PHONE</string>
+    <string name="telefonot">+57 3137185692</string>
+    <string name="preciot">PRICE</string>
+    <string name="valors">"FREE ENTRY</string>
+</resources>

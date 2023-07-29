@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">vengaAmipueblo2</string>
+
+    <string name="descripcionhoteles">Hola aca encontraras las grandes maravillas de nuestro hotel</string>
+
+    <string name="botonhoteles">Hoteles</string>
+    <string name="botonres">Restaurante</string>
+    <string name="botons">Sitios</string>
+
+    <string name="opcion1">Español</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Portugues</string>
+    <string name="opcion4">Acerca de</string>
+    <string name="descripcionrestaurantes">En nuestro maravilloso pueblo vas a disfrutar de nuestras delicias caseras</string>
+
+    <string name="turismo">Con nuestra maravillosa empresa de turismo puedes disfrutar nuestros paquetes de planes para pasear con tus seres queridos</string>
+
+    <string name="tituload">Tamarindos </string>
+    <string name="acercade">Hola, mi nombre es sebastian, soy el accesor directo de tamarindos aca puedes encontrar lo que tu quieres y puedes disfrutar de todos nuestros planes que contamos</string>
+
+    <string name="titulohotel">HOTEL MARIO</string>
+    <string name="preciohotel">Desde 100.000 cop</string>
+
+    <string name="titulosrestaurantes">RESTAURANTE EL MIRADOR</string>
+    <string name="platoespecial">ESPECIAL</string>
+    <string name="descripcionplato">Cerdo prenzado con papas criollas y verduras</string>
+    <string name="preciotitulo">PRECIOS</string>
+    <string name="preciosplato">$300.000</string>
+
+    <string name="titulot">MARAVILLAS</string>
+    <string name="titulote">TELEFONO</string>
+    <string name="telefonot">+57 3137185692</string>
+    <string name="preciot">PRECIO</string>
+    <string name="valors">ENTRADA LIBRE</string>
+
+
+</resources>
+
+ 

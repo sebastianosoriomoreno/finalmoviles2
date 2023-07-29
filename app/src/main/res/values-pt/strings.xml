@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vengaAmipueblo2</string>
+    <string name="descripcionhoteles"> MARAVILHAS </string>
+
+    <string name="botonhoteles">Hotéis</string>
+    <string name="botonres">Restaurante</string>
+    <string name="botons">Sitios</string>
+
+    <string name="opcion1">Espanhol</string>
+    <string name="opcion2">Inglês</string>
+    <string name="opcion3">português</string>
+    <string name="opcion4">sobre</string>
+    <string name="descripcionrestaurantes">Em nossa cidade maravilhosa, você poderá desfrutar de nossas iguarias caseiras</string>
+    <string name="turismo">Com nossa maravilhosa empresa de turismo, você pode aproveitar nossos pacotes de planos para passear com seus entes queridos</string>
+
+    <string name="tituload">Tamarindo</string>
+    <string name="acercade">Olá, meu nome é Sebastian, sou o acessor direto de tamarindos aqui você encontra o que deseja e pode aproveitar todos os nossos planos que temos!!</string>
+    <string name="titulohotel">MÁRIO HOTEL</string>
+    <string name="preciohotel">100.000 COP.</string>
+
+    <string name="titulosrestaurantes">RESTAURANTE EL MIRADOR</string>
+    <string name="platoespecial">ESPECIAL</string>
+    <string name="descripcionplato">Porco com batata crioula e legumes.</string>
+    <string name="preciotitulo">PREÇOS</string>
+    <string name="preciosplato">De $300.000.</string>
+
+
+    <string name="titulot">WONDERS</string>
+    <string name="titulote">TELEFONE</string>
+    <string name="telefonot">+57 3212672736</string>
+    <string name="preciot">PREÇO</string>
+    <string name="valors">ENTRADA GRATUITA</string>
+
+</resources>
